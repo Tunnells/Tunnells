@@ -6,7 +6,7 @@
 
 ## 📌 Contact Information
 
-- **Roblox:** [Timothy's Roblox Profile](https://www.roblox.com/users/YOUR_USER_ID/profile)
+- **Roblox:** [Timothy's Roblox Profile](https://www.roblox.com/users/694139165/profile)
 - **GitHub:** [Timothy](https://github.com/com/Tunnells)
 - **Discord:** txnx
 ---
@@ -29,6 +29,7 @@ A passionate game developer specializing in **Roblox games**, with a strong focu
 
 ### 🎮 Live Roblox Games
 
+- **[Hatch 1 Million Chickens](https://www.roblox.com/games/112781992170158/Hatch-1-Million-Chickens)** — A fast-growing farming game where you hatch, grow, and collect millions of chickens.
 - **[Gun Ball](https://www.roblox.com/games/14822302723/Gun-Ball)** — An action-packed ball game with guns.
 - **[Be A Pet](https://www.roblox.com/games/106441855698085/Be-A-Pet)** — Become a cute pet and play with friends.
 - **[Fish Hide and Seek](https://www.roblox.com/games/132403907963309/Fish-Hide-and-Seek)** — A unique twist on hide and seek with fish morphing mechanics.
